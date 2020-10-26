@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 471}
   m_MaxSize: {x: 14001, y: 14021}
   vertical: 0
-  controlID: 6481
+  controlID: 20058
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 6482
+  controlID: 20012
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 6483
+  controlID: 19980
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 66fbffff80340000
+      m_ExpandedIDs: 66fbffff80340000e6340000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -312,9 +312,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.8841014, y: 2.7371566, z: -6.495653}
+    m_Target: {x: 10.013567, y: -9.603875, z: -0.042676102}
     speed: 2
-    m_Value: {x: 5.8841014, y: 2.7371566, z: -6.495653}
+    m_Value: {x: 10.013567, y: -9.603875, z: -0.042676102}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -360,13 +360,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.09379849, y: 0.73920256, z: -0.105097786, w: 0.65885776}
+    m_Target: {x: -0.2541063, y: -0.60683, z: 0.21333204, w: -0.7225912}
     speed: 2
-    m_Value: {x: 0.09378172, y: 0.7390704, z: -0.105078995, w: 0.65874}
+    m_Value: {x: -0.25404772, y: -0.60669005, z: 0.21328284, w: -0.72242457}
   m_Size:
-    m_Target: 16.591265
+    m_Target: 10
     speed: 2
-    m_Value: 16.591265
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -521,20 +521,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models
+    - Assets/Models/bomberman
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models
+  - Assets/Models/bomberman
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Brent\Desktop\BombermanClone
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f8350000
-    m_LastClickedID: 13816
-    m_ExpandedIDs: 00000000e235000000ca9a3b
+    m_SelectedIDs: c6830000
+    m_LastClickedID: 33734
+    m_ExpandedIDs: 00000000e2350000f835000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -587,10 +587,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 38340000
-    m_LastClickedInstanceID: 13368
+    m_SelectedInstanceIDs: 20350000
+    m_LastClickedInstanceID: 13600
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000
+    m_ExpandedInstanceIDs: c6230000b0830000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -663,8 +663,8 @@ MonoBehaviour:
     y: 0
     width: 276
     height: 734
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -706,5 +706,5 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: 13368
+  m_LastInspectedObjectInstanceID: 13600
   m_LastVerticalScrollValue: 0
